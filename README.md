@@ -2,9 +2,11 @@
 # OS-1的示例代码
 Sample code for connecting to and configuring the OS-1, reading and visualizing
 data, and interfacing with ROS.
+
 关于OS-1连接、配置、读取、可视化数据、与ROS接口的示例代码
 
 See the `README.md` in each subdirectory for details.
+
 在子文件下阅读 `README.md` 文件以了解更多
 
 ## Contents
